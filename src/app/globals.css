@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+/* 
+* {
+    -webkit-font-smoothing: antialiased
+} */
+
+@theme{
+    --color-green-base: #123F34;
+    --color-orange-base: #FA8D01;
+}
