@@ -21,7 +21,7 @@ export function Header() {
 
     return (
         <header className="w-full bg-green-base text-white">
-            <div className="max-w-[1280px] mx-auto flex items-center justify-between px-4 h-24">
+            <div className="max-w-[950px] mx-auto flex items-center justify-between px-4 h-24">
                 <Link href="/">
                     <Image src={LogoImg} alt="Logo Grupo Suçuarana" className="w-60 h-auto" />
                 </Link>
