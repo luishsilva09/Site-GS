@@ -42,8 +42,7 @@ const valores = [
     },
     {
         className: "bg-orange-base",
-        icone1: "Tree.svg",
-        icone2: "icones/justice.svg",
+        icone1: "icones/justice.svg",
         titulo: "EQUIDADE",
         texto: "Buscamos justiça social promovendo oportunidades iguais para todos, especialmente para os mais vulneráveis.",
     },
@@ -61,8 +60,7 @@ const valores = [
     },
     {
         className: "bg-green-base",
-        icone1: "Tree.svg",
-        icone2: "icones/Community.svg",
+        icone1: "icones/Community.svg",
         titulo: "AMOR PELA COMUNIDADE",
         texto: "Temos orgulho de nossas raízes e atuamos com afeto, cuidado e dedicação por aqueles que fazem parte da nossa história.",
     },
