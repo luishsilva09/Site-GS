@@ -9,3 +9,13 @@
     --color-green-base: #123F34;
     --color-orange-base: #FA8D01;
 }
+
+.border-gradient {
+    padding: 1px;
+    background: linear-gradient(to bottom, #FA8D01, #123F34);
+    border-radius: 16px;
+}
+
+.gradient{
+    background: linear-gradient(to bottom, #123F34, #FA8D01, #123F34);
+}

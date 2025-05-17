@@ -1,11 +1,13 @@
+import  Container  from "@/components/container"
+
 export default function QuemSomosPage() {
     return (
         <main className="bg-green-base">
-            <div className="max-w-[900px] mx-auto px-4 py-12 min-h-screen">
+            <Container>
                 <div>
                     <h1 className="text-white text-7xl font-semibold">QUEM SOMOS</h1>
                     <br />
-                    <h2 className="text-white text-5xl font-light w-2xl">Conheça a história por trás do Grupo Suçuarana</h2>
+                    <h2 className="text-white text-5xl font-light max-w-2xl">Conheça a história por trás do Grupo Suçuarana</h2>
                     <br />
                     <h3 className="text-orange-base font-medium text-4xl">Fundado em 1994</h3>
                     <br />
@@ -50,7 +52,7 @@ export default function QuemSomosPage() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Container>
         </main>
     );
 }
