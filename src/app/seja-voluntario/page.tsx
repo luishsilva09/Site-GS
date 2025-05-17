@@ -7,7 +7,7 @@ export default function Atividades() {
         <main className="bg-green-base">
             <Container>
                 <div className="relative">
-                    <h1 className="text-white text-7xl font-semibold z-10 relative">
+                    <h1 className="text-5xl text-white md:text-7xl font-semibold z-10 relative">
                         SEJA UM VOLUNTÁRIO
                     </h1>
 
@@ -19,7 +19,7 @@ export default function Atividades() {
                         className="hidden md:block absolute right-0 top-[-55px] z-20"
                     />
 
-                    <h2 className="text-white text-5xl font-light max-w-2xl mt-10 z-0 relative">
+                    <h2 className="text-3xl text-white md:text-5xl font-light max-w-2xl mt-10 z-0 relative">
                         Junte-se a nós para salvar vidas e preservar a natureza
                     </h2>
                 </div>
