@@ -8,6 +8,7 @@
 @theme{
     --color-green-base: #123F34;
     --color-orange-base: #FA8D01;
+    --color-orange-card: #DA5600;
 }
 
 .border-gradient {
