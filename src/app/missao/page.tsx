@@ -6,9 +6,9 @@ export default function MissaoPage() {
     return (
         <main className="bg-green-base">
             <Container>
-                <h1 className="text-white text-7xl font-semibold">MISSÃO</h1>
+                <h1 className="text-white text-5xl font-semibold sm:text-7xl">MISSÃO</h1>
                 <br />
-                <h2 className="text-white text-5xl font-light max-w-2xl">Nossa missão e valores fundamentais</h2>
+                <h2 className="text-white text-3xl font-light max-w-2xl sm:text-5xl">Nossa missão e valores fundamentais</h2>
                 <br />
                 <div className="grid grid-cols-1 gap-8">
                     <div className="text-white font-normal text-justify">

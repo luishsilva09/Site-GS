@@ -5,9 +5,9 @@ export default function QuemSomosPage() {
         <main className="bg-green-base">
             <Container>
                 <div>
-                    <h1 className="text-white text-7xl font-semibold">QUEM SOMOS</h1>
+                    <h1 className="text-white text-5xl font-semibold sm:text-7xl">QUEM SOMOS</h1>
                     <br />
-                    <h2 className="text-white text-5xl font-light max-w-2xl">Conheça a história por trás do Grupo Suçuarana</h2>
+                    <h2 className="text-white text-3xl font-light max-w-2xl sm:text-5xl">Conheça a história por trás do Grupo Suçuarana</h2>
                     <br />
                     <h3 className="text-orange-base font-medium text-4xl">Fundado em 1994</h3>
                     <br />
