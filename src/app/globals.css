@@ -41,6 +41,15 @@ button{
     
 }
 button:hover {
-    filter: brightness(1.5);
+    filter: brightness(1.1);
     cursor: pointer;
+}
+
+.btn-home{
+    background-color: #FA8D01;
+        border-radius: 10px;
+        height: 50px;
+        color: white;
+        font-weight: bold;
+        font-size: large;
 }
