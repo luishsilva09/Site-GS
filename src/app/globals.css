@@ -21,6 +21,12 @@
     background: linear-gradient(to bottom, #123F34, #FA8D01, #123F34);
 }
 
+@layer components{
+    .gradient-left {
+        background: linear-gradient(to left, #123F34, #FA8D01 30%);
+    }
+}
+
 input{
     background-color: white;
     margin: 10px;
